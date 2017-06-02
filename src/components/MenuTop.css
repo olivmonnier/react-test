@@ -1,0 +1,14 @@
+.MenuTop .tab-pane.active {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+.MenuTop .tab-pane > .btn {
+  margin-right: 10px;
+  border-radius: 2px;
+}
+
+.MenuTop .horizontal-scroll a {
+  padding: 8px 4px;
+  font-size: 14px;
+}

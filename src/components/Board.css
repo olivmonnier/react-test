@@ -1,0 +1,15 @@
+.Board {
+  position: relative;
+  height: 80px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.Board-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+}
